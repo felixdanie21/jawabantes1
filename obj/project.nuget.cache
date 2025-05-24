@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "welYkemd/s0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\web\\RotativeDownloadApp\\RotativeDownloadApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\closedxml\\0.104.0\\closedxml.0.104.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\closedxml.parser\\1.2.0\\closedxml.parser.1.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\pdfsharpcore\\1.3.19\\pdfsharpcore.1.3.19.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\rbush\\3.2.0\\rbush.3.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
